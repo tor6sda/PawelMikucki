@@ -1,4 +1,4 @@
-package jdbc;
+package jdbc.Zadania;
 
 import util.DatabaseConnection;
 

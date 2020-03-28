@@ -32,4 +32,10 @@ public class przyklad4 {
             e.printStackTrace();
         }
     }
+
+    public static class przyklad5 {
+        public static void main(String[] args) {
+
+        }
+    }
 }
